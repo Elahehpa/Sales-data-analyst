@@ -47,5 +47,10 @@ This project performs an end-to-end analysis of the Adidas Sales Data (2020–20
 This analysis helps Adidas:  
 - Optimize inventory planning based on regional demand trends.  
 - Target marketing campaigns around peak sales months.  
-- Strengthen retailer partnerships that drive higher profitability.  
+- Strengthen retailer partnerships that drive higher profitability.
+
+## View Dashboard
+You can view the exported Adidas Sales Dashboard here:  
+[Adidas Sales Dashboard](Sales Data Analysis Dashboard.html)
+
 
