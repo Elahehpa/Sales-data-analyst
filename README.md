@@ -51,6 +51,6 @@ This analysis helps Adidas:
 
 ## View Dashboard
 You can view the exported Adidas Sales Dashboard here:  
-[Adidas Sales Dashboard](Sales Data Analysis Dashboard.html)
+[Sales Data Analysis Dashboard.html]
 
 
