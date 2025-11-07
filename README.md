@@ -54,6 +54,5 @@ This analysis helps Adidas:
 
 ## View Dashboard
 You can view the exported Adidas Sales Dashboard here:  
-[Sales Data Analysis Dashboard.html]
-
+https://dbc-23fc5849-4a95.cloud.databricks.com/editor/notebooks/4391889974016732/dashboards/38b7c9d7-f63f-4d66-988b-64f486d30388?o=4098972664223908
 
