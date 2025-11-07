@@ -38,8 +38,8 @@ This project performs an end-to-end analysis of the Adidas Sales Data (2020–20
    - Identified top retailers and cities contributing most to revenue and profit.  
 
 ## Key Insights
-<img width="431" height="210" alt="image" src="https://github.com/user-attachments/assets/26f5ad16-981f-4287-b1bb-c27061f28628" />
-<img width="431" height="210" alt="image" src="https://github.com/user-attachments/assets/64dbb223-b6cf-4482-ac62-e21e173084d2" />
+<img width="431" height="256" alt="image" src="https://github.com/user-attachments/assets/bcdf9854-1b58-4417-a335-6941dce1df3b" />
+<img width="431" height="256" alt="image" src="https://github.com/user-attachments/assets/64dbb223-b6cf-4482-ac62-e21e173084d2" />
 
 - Highest revenue months: November–December (holiday season).  
 - Top-performing regions: California and Texas contributed 35% of total profit.  
