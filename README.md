@@ -1,15 +1,15 @@
 # Adidas Sales Data Analysis using PySpark & Databricks
 
-## 🎯 Objective
+## Objective
 This project performs an end-to-end analysis of the Adidas Sales Data (2020–2021) to uncover key business insights for optimizing sales performance and guiding data-driven strategies. Using PySpark on Databricks, it efficiently processes large datasets and delivers actionable insights through interactive analytics and visualization.
 
-## 🧩 Tools & Technologies
+## Tools & Technologies
 - Databricks Free Edition (PySpark)  
 - Spark SQL for data cleaning, aggregation, and transformation  
 - Power BI / Databricks Visualizations for dashboards and insights  
 - Python (PySpark API) for advanced analysis and feature engineering  
 
-## 📊 Business Metrics & KPIs
+## Business Metrics & KPIs
 
 | KPI | Description |
 | --- | ----------- |
@@ -20,7 +20,7 @@ This project performs an end-to-end analysis of the Adidas Sales Data (2020–20
 | Units Sold by Product Category | Detect top-selling categories |
 | Top Performing Cities by Profit | Identify high-value markets |
 
-## 🔍 Analytical Approach
+## Analytical Approach
 1. **Data Ingestion**  
    - Loaded the Adidas sales dataset (CSV) into Databricks Volume.  
    - Defined schema and cleaned data (handled commas, spaces, and string-to-numeric conversion).  
@@ -37,7 +37,10 @@ This project performs an end-to-end analysis of the Adidas Sales Data (2020–20
    - Built Databricks visual dashboards showing monthly sales trends, profit by region, and product performance.  
    - Identified top retailers and cities contributing most to revenue and profit.  
 
-## 💡 Key Insights (Example)
+## Key Insights
+<img width="431" height="210" alt="image" src="https://github.com/user-attachments/assets/26f5ad16-981f-4287-b1bb-c27061f28628" />
+<img width="427" height="155" alt="image" src="https://github.com/user-attachments/assets/97238e21-f11d-4115-8f1d-23cd01b17c8a" />
+
 - Highest revenue months: November–December (holiday season).  
 - Top-performing regions: California and Texas contributed 35% of total profit.  
 - Most profitable product category: Footwear dominated with the highest margin.  
